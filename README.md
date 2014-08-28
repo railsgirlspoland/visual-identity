@@ -1,0 +1,2 @@
+Rails Girls Poland Logotypes
+============================
